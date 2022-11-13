@@ -1,0 +1,67 @@
+{
+    "owners": [
+        {
+            "firstName": "John",
+            "lastName": "Lennon",
+            "favorite": false,
+            "cats": [
+                {
+                    "name": "Snowball",
+                    "born": "2020-09-20"
+                },
+                {
+                    "name": "Blacky",
+                    "born": "2019-02-02"
+                }
+            ]
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "McCartney",
+            "favorite": false,
+            "cats": [
+                {
+                    "name": "Pikachu",
+                    "born": "2021-01-20"
+                }
+            ]
+        },
+        {
+            "firstName": "Henley",
+            "lastName": "Reeves",
+            "favorite": false,
+            "cats": [
+                {
+                    "name": "Slowly",
+                    "born": "2018-01-20"
+                }
+            ]
+        },
+        {
+            "firstName": "Jack",
+            "lastName": "Wilder",
+            "favorite": false,
+            "cats": [
+                {
+                    "name": "Blueray",
+                    "born": "2022-03-10"
+                }
+            ]
+        },
+        {
+            "firstName": "Daniel",
+            "lastName": "Atlas",
+            "favorite": false,
+            "cats": [
+                {
+                    "name": "Krows",
+                    "born": "2020-09-20"
+                },
+                {
+                    "name": "Grock",
+                    "born": "2020-09-20"
+                }
+            ]
+        }
+    ]
+}
